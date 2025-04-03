@@ -6,6 +6,6 @@
 ![Graph](https://github.com/julian-vargo/3D_Vowel_Space_Density/blob/main/convex_hull_3d.gif)
 
 <br>
-<h3>The main R file in this script is 3d_convex_hull</h3>  
-- Test csv data is also provided in the repository for your convenience, named test_data.csv
+<h3>Code and comments are found in 3d_convex_hull.R</h3>  
+- Test csv data is also provided in the repository for your convenience, named test_data.csv <br>
 - This script was built in R version 4.4.3
